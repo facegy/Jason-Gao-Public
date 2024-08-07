@@ -3,23 +3,33 @@
 $$\left( \sum{k=1}^n a_k b_k \right)^2 \leq \left( \sum{k=1}^n ak^2 \right) \left( \sum{k=1}^n b_k^2 \right)$$
 
 
- $`\sqrt{3x-1}+(1+x)^2`$
+$`\sqrt{3x-1}+(1+x)^2`$
+
 
 $\sqrt{3x-1}+(1+x)^2$
 
+
 $`\sqrt{3x-1}+(1+x)^2`$
+
 
 ```math
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
+
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 
 $yi = xi^′β + εi  (i=1,⋯,n) \\ \\ β 的一致估计要求 Cov (xi,εi) = 0$
 
+
 **拟合值大于1或者小于0，不符合现实（通过使用Logit/Probit/Tobit 模型解决）。**
 
+
 因为二元变量（0 或者 1 ）一般度量的是概率，概率只能取值 [0，1]。
+
+
+---
 
 **LPM的边际效应是常数（通过使用Logit/Probit/Tobit 模型解决）。**
 
@@ -38,4 +48,11 @@ Var(εi) = Var（0 − xi^′\beta） = Var（xi^′\beta） = p
 $$
 
 其中，$*p(x) = β0 + β_1x_1 + β_2x_2 + … + \beta_nx_n*$
+
+
+
+
+
+
+
 
