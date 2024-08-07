@@ -5,6 +5,7 @@ $$\left( \sum{k=1}^n a_k b_k \right)^2 \leq \left( \sum{k=1}^n ak^2 \right) \lef
 
 $`\sqrt{3x-1}+(1+x)^2`$
 
+![dddd](https://github.com/facegy/Jason-Gao-Public/edit/main/1.png)
 
 $\sqrt{3x-1}+(1+x)^2$
 
